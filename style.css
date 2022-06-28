@@ -1,24 +1,35 @@
 html, body{ 
-    width: 100%;
-    height: 100%;
     padding: 0px;
     margin: 0px; 
-    background-color: rgb(212, 212, 212);
 } 
 
-.header-img{ 
-    width: 100vw; 
+
+.header-footer-img{ 
+    width: 100%; 
+    vertical-align: bottom;
 } 
+
+.background-parallax{  
+    background: rgb(204, 32, 32);
+    background: linear-gradient(180deg, rgba(194,0,0,1) 0%, rgba(112,0,16,1) 20%, rgba(48,0,0,1) 46%, rgba(23,0,0,1) 75%);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+.portfolio-container{ 
+    width: 100%;
+    height: fit-content;
+}
 
 .portfolio-grid{ 
-    display: grid;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
 } 
 
 .grid-img{ 
-    width: 90vw;
-    margin: 5vw;
-} 
-
-.footer-img{ 
-    width: 100vw; 
+    width: 70%; 
+    margin: 20px;
 } 
