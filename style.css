@@ -8,11 +8,10 @@ html, body{
 
 .header-img{ 
     width: 100vw; 
-    height: 100vh;
 } 
 
 .portfolio-grid{ 
-
+    display: grid;
 } 
 
 .grid-img{ 
@@ -22,5 +21,4 @@ html, body{
 
 .footer-img{ 
     width: 100vw; 
-    height: 100vh;
 } 
