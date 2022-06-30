@@ -136,7 +136,30 @@
             "src": "./assets/massimo/copertina-libro/copertina-libro-definitivo.jpg", 
             "descr": ""
         }, 
-
+        { 
+            "index": "colore-definitivo",
+            "name": "Lavori per Massimo Porcella", 
+            "src": "./assets/massimo/esercizio-colore/colore-definitivo.jpg", 
+            "descr": ""
+        }, 
+        { 
+            "index": "reliquia-thumbnails",
+            "name": "Lavori per Massimo Porcella", 
+            "src": "./assets/massimo/reliquia/reliquia-thumbnails.jpg", 
+            "descr": ""
+        }, 
+        { 
+            "index": "reliquia-definitivo",
+            "name": "Lavori per Massimo Porcella", 
+            "src": "./assets/massimo/reliquia/reliquia-definitivo.jpg", 
+            "descr": ""
+        }, 
+        { 
+            "index": "shapes",
+            "name": "Lavori per Massimo Porcella", 
+            "src": "./assets/massimo/shapes/shapes.jpg", 
+            "descr": ""
+        }, 
     ]
 } 
 
